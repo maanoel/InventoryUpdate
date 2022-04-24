@@ -28,7 +28,7 @@ namespace InventoryUpdate
         }
 
       }
-      return new dynamic[][] { };
+      return curInv;
     }
   }
 }
